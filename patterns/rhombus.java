@@ -1,6 +1,6 @@
 package patterns;
 import java.util.*;
-public class rhombus {
+public class Rhombus {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
